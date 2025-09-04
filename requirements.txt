@@ -3,3 +3,6 @@ python-dotenv>=1.0.0
 google-generativeai>=0.5.0
 flask
 python-dotenv
+streamlit
+python-dotenv
+google-genai

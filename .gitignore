@@ -1,1 +1,7 @@
+__pycache__/
+*.pyc
 .env
+out/
+.streamlit/secrets.toml
+.vscode/
+*.egg-info
